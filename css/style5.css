@@ -1,0 +1,67 @@
+.name{
+    margin: 50px 20px;
+}
+form{
+    background-color: #9597a6;
+    height: 562px;
+    width: 750px;
+    margin: 29px 393px;
+
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    margin: 43px 95px;
+    justify-content: space-between!important;
+    color:#fff;
+
+}
+.name1{
+    margin: 50px 20px;
+    padding: 20px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.box .add{
+    padding: 11px 200px;
+    color: #fff;
+    width: 563px;
+    margin: -30px -105px;
+}
+
+
+
+.box .add2{
+    margin: 61px 98px;
+    color: #fff;
+    
+    width: 180px;
+ }
+
+
+
+.box .add3{
+    color: #fff;
+    margin: -119px 475px;
+    width: 184px;
+
+}
+
+.box input[type="text"] {
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid #9597a6;
+    padding: 10px;
+ 
+}
+.box .details{
+    margin: 158px 90px;
+    color: #fff;
+}
+.btm{
+    margin: -98px 175px;
+    padding: 11px 137px;
+    width: 50%;
+}

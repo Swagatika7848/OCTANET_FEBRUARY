@@ -1,0 +1,1328 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@700;900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    overflow-x: hidden;
+     
+    font-family:'Roboto', sans-serif;
+}
+
+.box {
+    background-color: #2f2f2f;
+    width: 1544px;
+    color: rgb(31, 164, 31);
+    
+    height: 40px;
+}
+.frame p{
+    padding: 9px;
+    text-align: center;
+
+}
+
+.box1 {
+    background-color: #fff;
+    width: 1544px;
+    color: #000;
+    height: 98px;
+    position: relative;
+}
+
+.organ {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 29px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.bar {
+    position: absolute;
+    top: 32%;
+    left: 45%;
+}
+
+
+.bar .ullist {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+   
+    
+ 
+}
+
+.ullist li a {
+    color: #000;
+    font-weight: 700;
+    font-size: 26px;
+    margin-right: 27px;
+
+}
+
+.middle {
+    background-color: rgb(208 233 208);
+    width: 1544px;
+    color: #000;
+    height: 600px;
+    position: relative;
+}
+
+.line1 h2 {
+    position: absolute;
+    top: 33%;
+    left: 12%;
+    font-size: 51px;
+    width: 437px;
+}
+
+
+.line1 p {
+    position: absolute;
+    top: 64%;
+    left: 12%;
+    font-size: 16px;
+}
+
+
+
+.line1 i {
+
+    position: absolute;
+    top: 28%;
+    left: 13%;
+    font-size: 18px;
+    font-weight: 500;
+    width: 232px;
+    color: rgb(20 198 20);
+
+}
+
+.image img {
+    position: absolute;
+    width: 626px;
+    top: 15%;
+    left: 52%;
+    border: none;
+}
+
+
+.btm1 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 73%;
+    left: 12%;
+    padding: 9px 22px;
+
+}
+
+.back {
+    background-image: url(../Image/time.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.b-der .ullist2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    text-align: center;
+}
+
+.sec {
+    background: green;
+    color: #fff;
+    height: 114px;
+    width: 1544px;
+}
+
+.dt {
+    display: flex;
+    justify-content: space-around;
+    padding: 46px 243px;
+    font-size: 29px;
+
+}
+
+.upto {
+    margin: 101px;
+
+}
+
+.up {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.up1 {
+    background-color: rgb(233, 217, 217, 0.5);
+    height: 250px;
+    width: 38%;
+    position: relative;
+}
+
+.up1 h2 {
+    width: 198px;
+    position: absolute;
+    top: 33%;
+    left: 6%;
+
+}
+
+.up1 p {
+
+    color: green;
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    font-size: 11px;
+
+}
+
+.btm2 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 66%;
+    left: 5%;
+    padding: 9px 22px;
+
+}
+
+.veg-box img {
+    position: absolute;
+    top: -18%;
+    left: 41%;
+    width: 274px;
+}
+
+.up2 {
+    background-color: rgb(233, 217, 217, 0.5);
+    height: 250px;
+    width: 38%;
+    position: relative;
+
+}
+
+.up2 h2 {
+    width: 172px;
+    position: absolute;
+    top: 31%;
+    left: 7%;
+    border: none;
+}
+
+.up2 p {
+
+    color: green;
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    font-size: 11px;
+
+}
+
+.btm3 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 63%;
+    left: 7%;
+    padding: 9px 22px;
+
+}
+
+.meat img {
+    position: absolute;
+    top: 21%;
+    left: 40%;
+    width: 275px;
+
+}
+
+
+.allproduct {
+    text-align: center;
+}
+
+.products i {
+    color: chartreuse;
+}
+
+.hding-product h2 {
+    margin: 19px 10px;
+}
+
+.food-dtail {
+    display: flex;
+    justify-content: space-around;
+    margin: 36px;
+    padding: 0px 318px;
+    width: 55%;
+}
+
+.no1 {
+    background-color: green;
+    height: 56px;
+    width: 20%;
+    position: relative;
+    color: #fff;
+
+}
+
+.no2 {
+    background-color: rgb(244, 236, 226);
+    height: 56px;
+    width: 20%;
+    position: relative;
+
+}
+
+.no3 {
+    background-color: rgb(244, 236, 226);
+    height: 56px;
+    width: 20%;
+    position: relative;
+}
+
+.no4 {
+    background-color: rgb(244, 236, 226);
+    height: 56px;
+    width: 20%;
+    position: relative;
+}
+
+
+
+.food-dtail p {
+    font-size: 17px;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    text-align: center;
+
+}
+
+.food-pic {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding: 0px 221px;
+
+}
+
+.bx1 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+
+}
+
+.bx1 img {
+    position: absolute;
+    top: 0%;
+    left: 12%;
+    width: 191px;
+}
+
+.bx1 h2 {
+    position: absolute;
+    top: 62%;
+    left: 28%;
+    font-size: 16px;
+}
+
+.btn1 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+}
+
+.bx2 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+}
+
+.bx2 img {
+    position: absolute;
+    top: 5%;
+    left: 17%;
+    width: 169px;
+
+}
+
+.bx2 h2 {
+    position: absolute;
+    top: 62%;
+    left: 35%;
+    font-size: 16px;
+}
+
+.btn2 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+}
+
+
+.bx3 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+}
+
+.bx3 img {
+    position: absolute;
+    top: 10%;
+    left: 14%;
+    width: 199px;
+
+}
+
+.bx3 h2 {
+    position: absolute;
+    top: 62%;
+    left: 24%;
+    font-size: 16px;
+}
+
+.btn3 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+
+}
+
+.bx4 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+}
+
+.bx4 img {
+    position: absolute;
+    top: 6%;
+    left: -10%;
+    width: 273px;
+
+}
+
+.bx4 h2 {
+    position: absolute;
+    top: 62%;
+    left: 25%;
+    font-size: 16px;
+}
+
+.btn4 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+}
+
+.food-pic2 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding: 0px 221px;
+
+}
+
+.food1 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+
+}
+
+.food1 h2 {
+    position: absolute;
+    top: 62%;
+    left: 28%;
+    font-size: 16px;
+}
+
+.food1 img {
+    position: absolute;
+    top: 5%;
+    left: 9%;
+    width: 191px;
+}
+
+.card1 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+
+}
+
+.food2 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+}
+
+.food2 h2 {
+    position: absolute;
+    top: 62%;
+    left: 35%;
+    font-size: 16px;
+}
+
+.food2 img {
+    position: absolute;
+    top: 7%;
+    left: 11%;
+    width: 191px;
+}
+
+.card2 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+
+}
+
+
+.food3 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+}
+
+.food3 h2 {
+    position: absolute;
+    top: 62%;
+    left: 24%;
+    font-size: 16px;
+}
+
+.food3 img {
+    position: absolute;
+    top: 7%;
+    left: 9%;
+    width: 191px;
+}
+
+.card3 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+
+}
+
+.food4 {
+    background-color: rgb(244, 236, 226);
+    height: 285px;
+    width: 27%;
+    margin: 10px 10px;
+    position: relative;
+
+}
+
+.food4 h2 {
+    position: absolute;
+    top: 62%;
+    left: 25%;
+    font-size: 16px;
+}
+
+.food4 img {
+    position: absolute;
+    top: 4%;
+    left: 9%;
+    width: 191px;
+}
+
+.card4 {
+    background-color: green;
+    position: absolute;
+    color: #fff;
+    top: 80%;
+    left: 25%;
+    padding: 7px 15px;
+
+}
+
+.sec2 {
+
+    margin-top: 61px;
+
+
+}
+
+
+
+.back-grnd {
+    background-image: url(../Image/yellow-back.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.summer i {
+    position: absolute;
+    top: 22%;
+    left: 42%;
+    font-size: 35px;
+    color: rgb(42, 141, 42);
+
+}
+
+.summer h2 {
+    position: absolute;
+    top: 39%;
+    left: 35%;
+    font-size: 35px;
+}
+
+.summer p {
+
+    position: absolute;
+    top: 58%;
+    left: 36%;
+    font-size: 18px;
+
+
+}
+
+
+.sec3 {
+    margin-top: 92px;
+}
+
+.back2 {
+    background-image: url(../Image/green\ back.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.partner i {
+    position: absolute;
+    top: 27%;
+    left: 47%;
+    font-size: 19px;
+    color: #fff;
+
+}
+
+.partner h2 {
+
+    position: absolute;
+    top: 41%;
+    left: 42%;
+    font-size: 37px;
+    color: #fff;
+
+}
+
+.news {
+    text-align: center;
+    margin-top: 95px;
+}
+
+.blog i {
+    color: darkgreen;
+}
+
+.news-box {
+    display: flex;
+    margin: 74px 234px;
+    justify-content: space-around;
+
+}
+
+.nbox1 {
+    height: 354px;
+    width: 30%;
+    background-color: darkgray;
+
+}
+
+
+.nbox1 img {
+    height: 150px;
+    width: 89%;
+    position: relative;
+    margin: 19px 0px;
+
+}
+
+.nbox2 {
+    height: 354px;
+    width: 30%;
+    background-color: darkgray;
+
+
+
+}
+
+.nbox2 img {
+    height: 150px;
+    width: 89%;
+
+    margin: 19px 0px;
+
+}
+
+.nbox3 {
+    height: 354px;
+    width: 30%;
+    background-color: darkgray;
+}
+
+.nbox3 img {
+    height: 150px;
+    width: 89%;
+    position: relative;
+    margin: 19px 0px;
+
+}
+
+.nbox1 {
+    position: relative;
+}
+
+.read1 {
+    position: absolute;
+    top: 83%;
+    left: 30%;
+    background-color: darkgreen;
+    padding: 15px 14px;
+
+}
+
+.nbox2 {
+    position: relative;
+}
+
+.read2 {
+    position: absolute;
+    top: 83%;
+    left: 30%;
+    background-color: darkgreen;
+    padding: 15px 14px;
+}
+
+
+.nbox3 {
+    position: relative;
+}
+
+.read3 {
+    position: absolute;
+    top: 83%;
+    left: 30%;
+    background-color: darkgreen;
+    padding: 15px 14px;
+}
+
+
+
+
+.human {
+    text-align: center;
+    margin-top: 95px;
+}
+
+.testi i {
+    color: darkgreen;
+}
+
+.Happy {
+    display: flex;
+    margin: 74px 234px;
+    justify-content: space-around;
+}
+
+.feedback1 {
+    height: 400px;
+    width: 30%;
+    background-color: darkgray;
+
+}
+
+.feedback1 img {
+    border-radius: 72px;
+    margin: 25px 29px;
+    width: 32%;
+}
+
+.feedback1 p {
+    margin: -7px 2px;
+    padding: 8px 9px;
+    letter-spacing: 1px;
+    font-size: 16px;
+
+}
+
+.feedback1 h2 {
+    margin-top: 23px;
+    font-size: 23px;
+}
+
+.feedback2 {
+    height: 400px;
+    width: 30%;
+    background-color: darkgray;
+
+
+}
+
+.feedback2 img {
+    border-radius: 72px;
+    margin: 25px 29px;
+    width: 32%;
+}
+
+.feedback2 p {
+    margin: -7px 2px;
+    padding: 8px 9px;
+    letter-spacing: 1px;
+    font-size: 16px;
+
+}
+
+.feedback2 h2 {
+    margin-top: 23px;
+    font-size: 23px;
+}
+
+.feedback3 {
+    height: 400px;
+    width: 30%;
+    background-color: darkgray;
+
+
+}
+
+.feedback3 img {
+    border-radius: 72px;
+    margin: 25px 29px;
+    width: 32%;
+}
+
+.feedback3 p {
+    margin: -7px 2px;
+    padding: 8px 9px;
+    letter-spacing: 1px;
+    font-size: 16px;
+
+}
+
+.feedback3 h2 {
+    margin-top: 23px;
+    font-size: 23px;
+}
+
+
+.newsletter {
+    background-image: url(../Image/veg-bacgr);
+    height: 361px;
+    margin: 113px 0px;
+
+    background-repeat: no-repeat;
+
+}
+
+.newsletter h2 {
+    color: #fff;
+    text-align: center;
+    margin: -79px;
+
+}
+
+.newsletter p {
+    color: #4fe94f;
+    padding: 118px;
+    text-align: center;
+
+
+}
+
+.orgac .fb {
+    position: absolute;
+    display: flex;
+    top: 68%;
+    left: 7%;
+  
+    height: 46px;
+    width: 46px;
+}
+
+.orgac .tr {
+   
+    margin: 13px 16px;
+    
+
+}
+
+
+.bg {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    background-color:#2d442e;
+    height: 405px;
+    width: 100%;
+    position: relative;
+    
+}
+
+.orgac h2 {
+    position: absolute;
+    top: 30%;
+    left: 7%;
+}
+
+.orgac p {
+    position: absolute;
+    top: 42%;
+    left: 7%;
+    width: 22%;
+    font-size: 17px;
+    color: rgb(203, 196, 196);
+}
+
+
+.comp h2 {
+    position: absolute;
+    top: 30%;
+    left: 41%;
+}
+
+.con h2 {
+    position: absolute;
+    top: 30%;
+    left: 62%;
+
+}
+
+.new h2 {
+    position: absolute;
+    top: 30%;
+    left: 80%;
+}
+ .comp .ulist{
+    list-style: none;
+    position: absolute;
+    top: 40%;
+    left: 41%;
+    color: rgb(203, 196, 196);
+}
+.ulist li{
+    padding: 5px 1px ;
+    font-size: 18px;
+    letter-spacing: 1px;
+
+}
+.con .para{
+    position: absolute;
+    top: 42%;
+    width: 57%;
+    left: 57%;
+    line-height: 38px;
+    color: rgb(203, 196, 196);
+    
+}
+.new p{
+    position: absolute;
+    top: 43%;
+    left: 80%;
+    width: 16%;
+    letter-spacing: 1px;
+    color: rgb(203, 196, 196);
+
+}
+.new .in{
+    left: 80%;
+    position: absolute;
+    top: 65%;
+    height: 7%;
+}
+
+@media (max-width:480px) {
+    .box {
+       
+        width: 103%;
+        
+    }
+    .box1 {
+        display: none;
+    }
+  .bar-i{
+        position: absolute;
+    top: 1%;
+    left: 5%;
+    color: #fff;
+
+    } 
+    .back {
+       
+        height: 683px;
+       
+    }
+    
+    .image img {
+        width: 378px;
+        top: 54%;
+        left: -2%;
+    }
+    .btm1 {
+        top: 101%;
+        left: 12%;
+        padding: 10px 22px;
+    }
+    .line1 h2{
+        top: 14%;
+    left: 3%;
+    font-size: 51px;
+    width: 94%;
+    }
+    .line1 i{
+        top: 10%;
+        left: 4%;
+    }
+    .middle {
+       
+        width: 103%;
+       
+    }
+    .line1 p {
+        position: absolute;
+        top: 48%;
+        left: 6%;
+        font-size: 16px;
+        width: 86%;
+    }
+
+.sec {
+    background: green;
+    color: #fff;
+    height: 114px;
+    width: 103%;
+    margin-top: 83px;
+}
+.dt {
+    display: flex;
+    justify-content: space-around;
+    padding: 53px 5px;
+    font-size: 12px;
+}
+.upto {
+    margin: 6px;
+}
+.up2 h2 {
+    width: 78px;
+    position: absolute;
+    top: 32%;
+    left: 7%;
+    border: none;
+    font-size: 16px;
+}
+.up2 p {
+    color: green;
+    position: absolute;
+    top: 24%;
+    left: 7%;
+    font-size: 8px;
+}
+.meat img {
+    position: absolute;
+    top: 38%;
+    left: 43%;
+    width: 78px;
+}
+
+
+.up1 {
+    background-color: rgb(233, 217, 217, 0.5);
+    height: 190px;
+    width: 45%;
+}
+.up1 p {
+    color: green;
+    position: absolute;
+    top: 19%;
+    left: 5%;
+    font-size: 9px;
+}
+.up1 h2 {
+    width: 10%;
+    position: absolute;
+    top: 33%;
+    left: 5%;
+    border: none;
+    font-size: 13px;
+}
+.veg-box img {
+    position: absolute;
+    top: 19%;
+    left: 50%;
+    width: 77px;
+}
+.btm2 {
+
+    position: absolute;
+    color: #fff;
+    top: 70%;
+    left: 6%;
+    padding: 4px 14px;
+}
+.up2 {
+  
+    height: 190px;
+    width: 45%;
+}
+
+.btm3 {
+  
+    position: absolute;
+    color: #fff;
+    top: 70%;
+    left: 6%;
+    padding: 4px 14px;
+}
+
+.up2 h2 {
+    width: 78px;
+    position: absolute;
+    top: 32%;
+    left: 7%;
+    border: none;
+    font-size: 16px;
+}
+.up2 p {
+    color: green;
+    position: absolute;
+    top: 24%;
+    left: 7%;
+    font-size: 8px;
+}
+
+.food-dtail {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 0px 2px;
+    width: 98%;
+}
+ .food-dtail p {
+    font-size: 14px;
+    position: absolute;
+    top: 25%;
+    left: -3%;
+    text-align: center;
+}
+.food-pic{
+    display: block;
+    margin-inline: 61px;
+    padding: 0px 3px;
+}
+
+.bx1 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.bx2 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.bx3 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.bx4 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.food-pic2{
+    display: block;
+    margin-inline: 61px;
+    padding: 0px 3px;
+}
+
+.food1 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.food2 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.food3 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+.food4 {
+   
+    height: 285px;
+    width: 106%;
+    margin: 10px -6px;
+    position: relative;
+}
+
+.back-grnd {
+    background-image: url(../Image/yellow-back.jpg);
+    height: 141px;
+    width: 103%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.summer i {
+    position: absolute;
+    top: 16%;
+    left: 30%;
+    font-size: 20px;
+}
+.summer h2 {
+    position: absolute;
+    top: 39%;
+    left: 13%;
+    font-size: 21px;
+}
+.summer p {
+    position: absolute;
+    top: 64%;
+    left: 11%;
+    font-size: 13px;
+}
+.back2 {
+ 
+    height: 141px;
+    width: 103%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.partner i {
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    font-size: 19px;
+
+}
+.partner h2 {
+    top: 44%;
+    left: 10%;
+    font-size: 37px;
+}
+
+    body{
+        overflow-x: hidden;
+    }
+}
+
+@media(max-width:1080px){
+
+    .Happy{
+        margin: 0 !important;
+    }
+}
+
+
+@media(max-width:768px){
+
+    .feedback3 p {
+        margin: 0px 2px;
+        padding: 0px;
+         letter-spacing: 0px; 
+        font-size: 14px;
+    }
+    
+    .feedback2 p {
+        margin: 0px 2px;
+         padding: 0px;
+         letter-spacing: 0px; 
+        font-size: 14px;
+    }
+    
+    .feedback1 p {
+        margin: 0px 2px;
+        padding: 0px;
+         letter-spacing: 0px; 
+        font-size: 14px;
+    }
+}
+
+
+
+

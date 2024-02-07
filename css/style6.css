@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0px;
+    padding:0px;
+}
+.con{
+
+    width: 1500px;
+    margin: 0 auto ;
+}
+header {
+
+
+    background-color:#204670;
+    height: 76px;
+   
+    width: 100%;
+   
+
+}
+.details{
+    margin-left: 1151px;
+    display: flex;
+    font-size: 15px;
+    margin-top: -53px;
+    color: #fff;
+
+}
+
+    
+
+.logo img{
+    height: 40px;
+    width: 55px;
+    margin: 5px 83px;
+}
+.logo h6{
+    margin: -5px 26px;
+    color: #fff;
+    font-size: 14px;
+}
+.details img{
+    height: 42px;
+    width: 74px;
+    margin: 0px 10px;
+}
+
+.con-event{
+    width: 1500px;
+    margin: 0 auto ;
+
+
+}
+  .event{
+    background-color: rgb(0, 128, 0);
+    height: 50px;
+  } 
+  .event h2{
+    color: #fff;
+    text-align: center;
+    padding: 11px 0px;
+    letter-spacing: 1px;
+    font-weight: 800;
+  } 
+  .work p{
+    padding: 21px 0px;
+    
+}
+.con1{
+    width: 1500px;
+    margin: 0 auto ;
+
+}
+.box{
+    margin: 29px 0px;
+}
+form{
+    margin: 15px 250px;
+}
+.first{
+    margin: 35px 0px;
+}
+
+.add{
+    margin: 35px 0px;
+}
+.data{
+    margin: 35px 0px;
+}
+.para{
+    margin: 35px 0px;
+}
+.dwn{
+    background-color: green;
+    color: #000;
+    margin: 0px 15px;
+}
+.dwn h2{
+    margin: 4px 90px;
+    color:cadetblue;
+}
+.dwn p{
+    margin: 0px 94px;
+    color: #000;
+}
+
+.con-ft{
+    width: 1500px;
+    margin:0px auto;
+  
+}
+.ft{
+    background-color: #204670;
+    height: 60px;
+}
+.ft p {
+
+    text-align: center;
+}
+form{
+    background-color: #204670;
+    width: 50%;
+    height: 450px;
+    margin: 45px 372px;
+}
+.first {
+    display: flex;
+    flex-direction: row;
+    margin: 1px 109px;
+    justify-content: space-between!important;
+    color:#fff;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+.box input[type="text"] {
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid #9597a6;
+    padding: 10px;
+ 
+}
+.box .mal{
+    padding: 0px 200px;
+    color: #fff;
+    width: 525px;
+    margin: -40px -91px;
+
+} 
+
+.box input[type="number"] {
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid #9597a6;
+    padding: 10px;
+ 
+}
+    
+.box .phno{
+    margin: 9px 108px;
+    color: #fff;
+
+}
+
+
+.box .prof{
+    color: #fff;
+    margin: -6px 113px;
+
+}
+.btm1{
+    background-color: #fff;
+    color: #000;
+    padding: 10px 58px;
+    margin: 31px 297px;
+    font-size: 17px;
+}

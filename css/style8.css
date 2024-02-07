@@ -1,0 +1,55 @@
+.box{
+    border: 1px solid #000;
+    width: 900px;
+    top: 28px;
+    height: 525px;
+    position: relative;
+    left: 257px;
+}
+.box1{
+    position: absolute;
+    width: 135px;
+    top: 172px;
+    right: 831px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+
+
+
+.box2{
+    position: absolute;
+    width: 251px;
+    top: 190px;
+    right: 246px;
+    height: 164px;
+    border: 1px solid #000;
+}
+.box3{
+    position: absolute;
+    width: 274px;
+    top: -79px;
+    left: 397px;
+    height: 158px;
+    border: 1px solid #000;
+}
+.box4{
+    position: absolute;
+    width: 157px;
+    top: 171px;
+    right: -101px;
+    height: 201px;
+    border: 1px solid #000;
+}
+
+
+.box5{
+    position: absolute;
+    width: 266px;
+    top: 437px;
+    left: 392px;
+    height: 158px;
+    border: 1px solid #000;
+
+}

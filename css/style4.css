@@ -1,0 +1,44 @@
+.box{
+    display:flex;
+   
+ }
+   .box1{
+    border:1px solid #000;
+  
+     
+     height:250px;
+     width:95%;
+     margin:23px 23px;
+    
+   }
+   .box1 img{
+    height: 150px;
+    width: 100%;
+   }
+   .box1 h2{
+    margin: 17px 17px;
+    font-size: 22px;
+   }
+   
+.box1 .btn1{
+   background-color: #000;
+   color: #fff;
+   
+  margin: 2px 20px;
+}
+
+.box1 .btn1:hover{
+    background-color:rgb(81, 255, 0);
+    color: #000;
+
+}
+
+
+
+
+
+
+
+
+
+
