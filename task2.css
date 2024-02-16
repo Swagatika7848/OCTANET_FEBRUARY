@@ -1,0 +1,68 @@
+body {
+	font-family: Arial, sans-serif;
+    background:#567ba3;
+    
+}
+
+.todo-list {
+	border: 1px solid #ddd;
+	padding: 20px;
+	width: 300px;
+}
+
+.todo-list__title {
+	font-size: 24px;
+	color: #333;
+}
+
+.todo-list__label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.todo-list__item {
+	margin-left: 20px;
+}
+
+.check {
+	display: none;
+	position: relative;
+	top: -2px;
+	left: -20px;
+	width: 16px;
+	height: 16px;
+	border: 1px solid #000;
+	border-radius: 2px;
+}
+
+input[type="checkbox"]:checked + .check {
+	display: block;
+	border-color: #000;
+	background: #000;
+}
+
+input[type="checkbox"]:checked + .check:after {
+	content: "";
+	position: absolute;
+	width: 5px;
+	height: 10px;
+	border: solid #fff;
+	border-width: 0 2px 2px 0;
+	transform: rotate(45deg);
+	transform-origin: 50% 50%;
+}
+
+.add-task {
+	display: block;
+	margin-top: 20px;
+	padding: 5px 10px;
+	background: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.add-task:hover {
+	background: #0056b3;
+}
